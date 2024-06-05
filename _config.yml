@@ -1,2 +1,8 @@
 title: Felix Cenusa
-theme: jekyll-theme-cayman
+email: felixcenusa@gmail.com
+description: >- 
+  Currently just redirects to other websites i have with github pages.
+baseurl: "" 
+mebig: /assets/img/meBig.png
+show_downloads: false
+theme: jekyll-theme-hacker
